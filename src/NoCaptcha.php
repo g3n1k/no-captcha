@@ -1,5 +1,5 @@
 <?php
-
+/** komentar andy **/
 namespace Anhskohbo\NoCaptcha;
 
 use Symfony\Component\HttpFoundation\Request;
